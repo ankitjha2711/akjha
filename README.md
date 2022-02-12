@@ -13,12 +13,12 @@
 
 
  
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitjha2711&show_icons=true&theme=radical)
-<br />
-<br />
+
 
 <h2>  <img src="https://4.bp.blogspot.com/-xtY1W7misIQ/WDZw5AiaBLI/AAAAAAADyVE/5Dioe2zAiAsUB7mxIKbHed_gwFtl_KQlQCLcB/s1600/AS000665_13.gif?time=Thu%20Feb%2010%202022%2011:57:52%20GMT+0530%20(India%20Standard%20Time)" width="150px" align="center"></h2>
+
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitjha2711&show_icons=true&theme=black-ice&hide_border=true&stroke=0000">
     <a href="https://github.com/ankitjha2711github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ankit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitjha2711&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
