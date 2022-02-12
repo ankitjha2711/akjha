@@ -20,7 +20,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ankitjha2711&show_icons=true&theme=black-ice&hide_border=true&stroke=0000">
     <a href="https://github.com/ankitjha2711github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ankit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitjha2711&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ankit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitjha2711&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&bg=true"/>
     </a>
 </p>
 
@@ -28,7 +28,7 @@
   <tr>
      <p align="center">
       <img src="http://winkkk.com/photo/6567.gif" width="150px">
-        <img src="https://github-profile-trophy.vercel.app/?username=ankitjha2711&title=Stars,Followers,Commit,Issues,Repositories,PullRequest&theme=discord&no- bg=true&column=3&margin-w=15&margin-h=15">
+        <img src="https://github-profile-trophy.vercel.app/?username=ankitjha2711&title=Stars,Followers,Commit,Issues,Repositories,PullRequest&theme=black-ice&no- bg=true&column=3&margin-w=15&margin-h=15">
        <img src="http://winkkk.com/photo/6904.gif" width="130px">
     </p>
   </tr>
