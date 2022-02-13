@@ -5,7 +5,7 @@
 
 **About me**
 
-- 💼 2nd year Computer science Student
+- 💼 2nd year Computer Science Student
 
 - 📈 Open Source Development Member,Google Developer Student Club, VIT Chennai
 
