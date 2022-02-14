@@ -1,4 +1,7 @@
-<p align="center"><a href="https://ankitjha2711.github.io"><img width="80%" src="http://s.myniceprofile.com/myspacepic/1685/168554.gif" /></a></p>
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="500" />
+  
+<p align="left"><a href="https://ankitjha2711.github.io"><img width="50%" src="http://s.myniceprofile.com/myspacepic/1685/168554.gif" /></a></p>
+  
 
 <br />
 
@@ -10,8 +13,6 @@
 - 📈 Open Source Development Member,Google Developer Student Club, VIT Chennai
 
 - 💬 Ask me about anything [here](https://github.com/ankitjha2711/ankitjha2711/issues)
-
-
  
 
 
