@@ -1,6 +1,6 @@
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="420" />
+ <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="420" />
   
-<p align="left"><a href="https://ankitjha2711.github.io"><img width="50%" src="http://s.myniceprofile.com/myspacepic/1685/168554.gif" /></a></p>
+<p align="right"><a href="https://ankitjha2711.github.io"><img width="50%" src="http://s.myniceprofile.com/myspacepic/1685/168554.gif" /></a></p>
   
 
 <br />
@@ -16,7 +16,7 @@
  
 
 
-<h2>  <img src="https://4.bp.blogspot.com/-xtY1W7misIQ/WDZw5AiaBLI/AAAAAAADyVE/5Dioe2zAiAsUB7mxIKbHed_gwFtl_KQlQCLcB/s1600/AS000665_13.gif?time=Thu%20Feb%2010%202022%2011:57:52%20GMT+0530%20(India%20Standard%20Time)" width="350px" align="center"></h2>
+<h2>  <img src="https://4.bp.blogspot.com/-xtY1W7misIQ/WDZw5AiaBLI/AAAAAAADyVE/5Dioe2zAiAsUB7mxIKbHed_gwFtl_KQlQCLcB/s1600/AS000665_13.gif?time=Thu%20Feb%2010%202022%2011:57:52%20GMT+0530%20(India%20Standard%20Time)" width="150px" align="center"></h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ankitjha2711&show_icons=true&theme=black-ice&hide_border=true&stroke=0000">
