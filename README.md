@@ -1,6 +1,7 @@
- <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="200" height="320" />
+
   
-<p align="right"><a href="https://ankitjha2711.github.io"><img width="50%" src="http://s.myniceprofile.com/myspacepic/1685/168554.gif" /></a></p>
+<p align="left"><a href="https://ankitjha2711.github.io"><img width="50%" src="http://s.myniceprofile.com/myspacepic/1685/168554.gif" /></a></p>
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="200" height="320" />
   
 
 <br />
