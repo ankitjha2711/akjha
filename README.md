@@ -6,7 +6,7 @@
 <br />
 
 
- <video src="assets/pexels-los-muertos-crew-8838161.mp4" muted loop autoplay></video>
+ <video src="https://i.vimeocdn.com/video/676167099-ac45b468ef9759f91fb30406005eee265c5cae00826dc3958530a97cfc51903c-d_640x360.jpg"></video>
 
 
 
