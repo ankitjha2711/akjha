@@ -17,45 +17,31 @@
 
 <hr>
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" height="100">](https://docs.python.org/3/library/index.html)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" height="100">](https://docs.oracle.com/en/java/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" height="100">](https://kotlinlang.org/docs/home.html)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" alt="android" height="100">](https://developer.android.com/reference)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="golang" height="100">](https://golang.org/doc/)
 
-
-
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/107px-Gmail_icon_%282020%29.svg.png" alt="Gmail" height="50">](mailto:voko.aleksey@gmail.com)
-[<img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="telegram" height="50">](https://t.me/voko_aleksey)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="stackoverflow" height="50">](https://ru.stackoverflow.com/users/371584/aleksey-voko)
-
-
-
-
-
-
-
-
-[<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="stackoverflow" height="50">](https://stackoverflow.com/users/13531449/aleksey-voko)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Ubuntu_logoib.svg" alt="askubuntu" height="50">](https://askubuntu.com/users/1561126/aleksey-voko)
-[<img src="https://github.com/Aleksey-Voko/Aleksey-Voko/blob/master/assets/habr.png?raw=true" alt="habr" height="50">](https://freelance.habr.com/freelancers/Voko_Aleksey)
-[<img src="https://avatars.githubusercontent.com/u/92794071?s=200&v=4" alt="OldCodersClub" height="50">](https://t.me/oldcodersclub)
-[<img src="https://avatars.githubusercontent.com/u/94781354?s=200&v=4" alt="DroidDump" height="50">](https://github.com/DroidDump)
-[<img src="https://avatars.githubusercontent.com/u/106444015?s=200&v=4" alt="LessonDump" height="50">](https://github.com/LessonDump)
+<h2> Skills</h2>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 
 <hr>
 
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitjha2711&langs_count=8&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/ankitjha2711)
-<br>
-![Github Stars](https://github-readme-stats.vercel.app/api?username=ankitjha2711&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&tokyonight&hide_border=true&layout=compact) 
-
-
-[![](https://activity-graph.herokuapp.com/graph?username=ankitjha2711&theme=tokyonight&hide_border=true&area=true)](https://github.com/ankitjha2711)
-[![](https://github-readme-stats.vercel.app/api?username=ankitjha2711&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ankitjha2711)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=ankitjha2711&theme=tokyonight&hide_border=true)](https://github.com/ankitjha2711)
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href = 'https://www.linkedin.com/in/ankit-kumar-jha-950b271bb/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
+<a href = 'https://www.twitter.com/ankitjha2711'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
+<a href = 'https://www.github.com/ankitjha2711'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href = 'mailto:ankitjha2711@gmail.com'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/107px-Gmail_icon_%282020%29.svg.png"/></a>
 
 
+<hr >
+
+ ![Ankit's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ankitjha2711&theme=redical&hide_border=true&area=true)
+| ![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=ankitjha2711&show_icons=true&theme=radical)             | ![Ankit's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankitjha2711&theme=radical)                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitjha2711&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=ankitjha2711&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 
